@@ -1,7 +1,7 @@
 # BlueTeamTools
 蓝队分析工具箱by:ABC_123
 
-2023.08.28 添加Base64+Gzip解码功能，用于特殊情况下解码出java反序列化数据包。
+2023.08.28 添加Base64+Gzip解码功能，用于特殊情况下解码出java反序列化数据包。 
 2023.08.26 添加VirusTotal搜索功能，添加文件哈希校验功能。
 2023.08.25 添加Hunter、Censys搜索功能。
 2023.08.24 添加微步、Quake、Zoomeye搜索功能。
