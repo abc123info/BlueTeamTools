@@ -17,7 +17,10 @@
 
 ![b777](https://github.com/abc123info/BlueTeamTools/assets/143333826/9a75f3dd-961b-410c-88a7-a6cfa2465949)
 
-
+2023.10.02 更新哥斯拉webshell的csharp流量解密功能，asp流量解密功能。
+2023.10.01 更新哥斯拉webshell的java流量解密功能、php流量解密功能。
+2023.09.11 更新Xml转Json、Json转Xml功能。
+2023.09.08 更新Mysql、SQLServer、Oracle、Postgresql、Hive数据库语句的格式化功能。
 2023.09.06 更正"网空资产测绘"功能Hunter界面的显示问题。
 
 ---
