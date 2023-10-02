@@ -5,17 +5,7 @@
 
 ![image](https://github.com/abc123info/BlueTeamTools/assets/143333826/f832a1ca-ef2c-48a5-8bb1-a0dc9ac331e7)
 
-![image](https://github.com/abc123info/BlueTeamTools/assets/143333826/85e2c331-3939-4d22-a052-b1fd5c999d75)
 
-![c333](https://github.com/abc123info/BlueTeamTools/assets/143333826/941c8a99-e42b-4671-ac63-67b3e7c10746)
-
-![image](https://github.com/abc123info/BlueTeamTools/assets/143333826/001c52f8-37aa-4e69-83ff-ac7d921a6d6e)
-
-![image](https://github.com/abc123info/BlueTeamTools/assets/143333826/4ccfca83-e63c-481f-bccf-c813386986d3)
-
-![b666](https://github.com/abc123info/BlueTeamTools/assets/143333826/19d97cc2-cb1d-42d0-845d-9d884b63e3fd)
-
-![b777](https://github.com/abc123info/BlueTeamTools/assets/143333826/9a75f3dd-961b-410c-88a7-a6cfa2465949)
 
 2023.10.02 更新哥斯拉webshell的csharp流量解密功能，asp流量解密功能。
 
@@ -106,3 +96,15 @@
 2022.05.04 开始对此工具进行大幅度更新。
 
 2020.05.25 完成第一个版本，完成shiro反序列化数据包解密功能。
+
+![image](https://github.com/abc123info/BlueTeamTools/assets/143333826/85e2c331-3939-4d22-a052-b1fd5c999d75)
+
+![c333](https://github.com/abc123info/BlueTeamTools/assets/143333826/941c8a99-e42b-4671-ac63-67b3e7c10746)
+
+![image](https://github.com/abc123info/BlueTeamTools/assets/143333826/001c52f8-37aa-4e69-83ff-ac7d921a6d6e)
+
+![image](https://github.com/abc123info/BlueTeamTools/assets/143333826/4ccfca83-e63c-481f-bccf-c813386986d3)
+
+![b666](https://github.com/abc123info/BlueTeamTools/assets/143333826/19d97cc2-cb1d-42d0-845d-9d884b63e3fd)
+
+![b777](https://github.com/abc123info/BlueTeamTools/assets/143333826/9a75f3dd-961b-410c-88a7-a6cfa2465949)
