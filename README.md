@@ -2,8 +2,7 @@
 蓝队分析工具箱by:ABC_123
 "蓝队分析研判工具箱"就是把我平时写的蓝队小工具集合起来形成的，重点解决蓝队分析工作中的一些痛点问题。
 
-
-![image](https://github.com/abc123info/BlueTeamTools/assets/143333826/f832a1ca-ef2c-48a5-8bb1-a0dc9ac331e7)
+![c111](https://github.com/abc123info/BlueTeamTools/assets/143333826/a88d3b6f-998d-4ba2-ab5d-21e43f902d43)
 
 ![a222](https://github.com/abc123info/BlueTeamTools/assets/143333826/21d0fe38-78f6-43dc-a3ea-50f698705cf8)
 
