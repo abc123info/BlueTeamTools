@@ -4,7 +4,7 @@
 
 蓝队分析研判工具箱的系列使用教程，可以观看我的B站：
 
-["https://www.bilibili.com/video/BV1fLaDe2ERk/"](https://www.bilibili.com/video/BV1fLaDe2ERk/)
+[https://www.bilibili.com/video/BV1fLaDe2ERk/](https://www.bilibili.com/video/BV1fLaDe2ERk/)
 
 2024.07.24 更新IP地址查询库为最新版本，查询IP物理归属地更精确。
 
