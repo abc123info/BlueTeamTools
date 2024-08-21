@@ -7,6 +7,7 @@
 [https://www.bilibili.com/video/BV1fLaDe2ERk/](https://www.bilibili.com/video/BV1fLaDe2ERk/)
 
 
+
 2024.07.24 更新IP地址查询库为最新版本，查询IP物理归属地更精确。
 
 2024.07.18 修正冰蝎、哥斯拉、天蝎解密后中文乱码问题，可以手工选择相应编码进行切换。
