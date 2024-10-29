@@ -6,6 +6,8 @@
 
 [https://www.bilibili.com/video/BV1fLaDe2ERk/](https://www.bilibili.com/video/BV1fLaDe2ERk/)
 
+2024.10.29 深入分析并修正对冰蝎的Java、PHP、PHP-Xor、ASPX、ASP加密流量的解密功能。
+
 2024.08.24 添加杀软进程识别功能。
 
 2024.08.23 修正Jar包搜索类名的多处bug，修正软件界面的bug，提升效率。
