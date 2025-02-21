@@ -6,6 +6,18 @@
 
 [https://www.bilibili.com/video/BV1fLaDe2ERk/](https://www.bilibili.com/video/BV1fLaDe2ERk/)
 
+2025.02.10 添加ViewState解密、JWT解密功能。
+
+2025.02.10 大幅度更新编码解码功能，融入XSSEncode、XSS&CSRF、XSSJother编码等常用脚本功能。
+
+2025.02.09 重写Gzip+Base64内存马反编译功能。
+
+2025.02.08 修正jadx反编译引擎的bug。
+
+2025.02.06 重写Swing框架的布局类，解决图形界面长久以来的各种bug问题。
+
+2015.02.01 放弃Netbeans拖拽图形界面，全部手敲Swing重写所有图形界面代码。
+
 2024.10.29 深入分析并修正对冰蝎的Java、PHP、PHP-Xor、ASPX、ASP加密流量的解密功能。
 
 2024.08.24 添加杀软进程识别功能。
