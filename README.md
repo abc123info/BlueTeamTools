@@ -6,6 +6,8 @@
 
 [https://www.bilibili.com/video/BV1fLaDe2ERk/](https://www.bilibili.com/video/BV1fLaDe2ERk/)
 
+2025.03.12 修复网空资产测绘功能的bug，修复Hunter及Shadon搜索返回结果过多而显示不全问题。
+
 2025.03.11 暂时去除DJ Native Swing浏览器模块，解决Linux、Mac兼容性问题。
 
 2025.02.10 添加ViewState解密、JWT解密功能。
