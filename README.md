@@ -6,6 +6,8 @@
 
 [https://www.bilibili.com/video/BV1fLaDe2ERk/](https://www.bilibili.com/video/BV1fLaDe2ERk/)
 
+2025.03.11 暂时去除DJ Native Swing浏览器模块，解决Linux、Mac兼容性问题。
+
 2025.02.10 添加ViewState解密、JWT解密功能。
 
 2025.02.10 大幅度更新编码解码功能，融入XSSEncode、XSS&CSRF、XSSJother编码等常用脚本功能。
