@@ -6,6 +6,10 @@
 
 [https://www.bilibili.com/video/BV1fLaDe2ERk/](https://www.bilibili.com/video/BV1fLaDe2ERk/)
 
+2025.06.06 修复unicode编码的前导0填充错误。
+
+2025.06.05 删除失效的社工查询(sgk66)网址。
+
 2025.05.03 更新解决反序列化数据包分析功能的抛出异常的bug。
 
 2025.04.26 更新解决java反序列化文件分析的bug。
