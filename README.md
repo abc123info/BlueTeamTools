@@ -6,6 +6,24 @@
 
 [https://www.bilibili.com/video/BV1fLaDe2ERk/](https://www.bilibili.com/video/BV1fLaDe2ERk/)
 
+2025.07.01 新增冰蝎4.x流量解密功能。
+
+2025.06.27 新增对TCP、UDP各端口的流量中攻击行为检测功能。
+
+2025.06.27 新增对Java反编译、Java序列化文件分析的关键字搜索功能。
+
+2025.06.24 新增Burpsuite、OWASP ZAP反制功能。
+
+2025.06.23 新增UDP协议的tftp、NTP、NetBIOS、DHCP等协议解析。
+
+2025.06.22 新增ftp、telnet、smtp、rdp、pop3、redis、mysql、postgresql协议的解析。
+
+2025.06.21 修正pcap解析在处理/ok?之类url抛出异常的bug。
+
+2025.06.19 添加Gzip/Base64编码文件功能。
+
+2025.06.13 删除config.properties的java.io.FileNotFoundException报错提示。
+
 2025.06.06 修复unicode编码的前导0填充错误。
 
 2025.06.05 删除失效的社工查询(sgk66)网址。
