@@ -6,7 +6,15 @@
 
 [https://www.bilibili.com/video/BV1fLaDe2ERk/](https://www.bilibili.com/video/BV1fLaDe2ERk/)
 
+<img width="1932" height="1391" alt="image-20261111193618880" src="https://github.com/user-attachments/assets/ee870825-7ce3-49ae-87ca-bb4425995701" />
 
+<img width="1932" height="1391" alt="image-20261111195053800" src="https://github.com/user-attachments/assets/dd9f7d09-fb1e-45ce-8d06-82cff6fd9eed" />
+
+<img width="1932" height="1391" alt="a333" src="https://github.com/user-attachments/assets/88ca10f9-9c11-4949-b469-f781028a6703" />
+
+<img width="1932" height="1391" alt="a222" src="https://github.com/user-attachments/assets/9001c668-d24e-4659-ae39-8295bae1112f" />
+
+<img width="1932" height="1391" alt="a444" src="https://github.com/user-attachments/assets/17222f77-6ff0-4e43-a1a1-428552a00d10" />
 
 ![图片1](https://github.com/user-attachments/assets/4fbb3d1a-dc71-4b31-9789-0ad85f1d13eb)
 
